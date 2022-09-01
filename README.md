@@ -2,7 +2,7 @@
 Created by: Amanda Chen
 
 ## Description
-* Create a dashboard to show the 12-month stock price, current dividend yield, and yield-to-cost for selected stocks.
+* Create a dashboard to show the stock price for the past 12 months and current dividend yield, with comparison to buy price, target selling price and yield-to-cost
 * Dashboard can be refreshed to update with latest stock prices from Yahoo Finance
 
 ## Dataset
